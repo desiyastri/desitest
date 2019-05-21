@@ -6,9 +6,10 @@
  * @return sebuah @Array
  */
 function hapusArray(arrayBuah, arrayHewan) {
-  const arrayBuahBaru = []; //membuat Array baru
+  const arrayBuahBaru = [arrayBuah]; //membuat Array baru
 
   //tempat coding disini
-
+  
+ 
   return arrayBuahBaru;
 }
